@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffee_Shope</string>
+    <string name="cash_button_text">Only <b>Rs. 50.00</b></string>
+    <string name="rs"><b>Rs. 50.00</b></string>
+</resources>
