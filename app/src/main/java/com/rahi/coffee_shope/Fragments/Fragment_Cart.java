@@ -19,6 +19,7 @@ import java.util.ArrayList;
 public class Fragment_Cart extends Fragment {
 
     RecyclerView recyclerView;
+    //changed
     CartAdapter cartAdapter;
     ArrayList<CartModelClass> cartModelClasses;
     String title,size;
